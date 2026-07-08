@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2669","Invalid user login @regression","chromium","2026-07-01","passed","2026-07-01","","LoginTests.spec.ts","",""
+"","2665","Uncheck -> Checked @regression","chromium","2026-07-01","passed","2026-07-01","","CheckboxesTests.spec.js","",""
+"","4149","Valid user login @regression","chromium","2026-07-01","passed","2026-07-01","","LoginTests.spec.ts","",""
+"","2793","Check -> Unchecked @regression","chromium","2026-07-01","passed","2026-07-01","","CheckboxesTests.spec.js","",""
